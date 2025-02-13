@@ -107,10 +107,10 @@ mvn exec:java
 
 ## Distribuição
 
-* **O instalador MSI está disponível em:** `dist\releases\v1.0.0\SudokuGame-Installer-1.0.0.msi`
-* **Hash SHA-256:** `6477f09f02ae89e778613661e9eff316050002b2f2e0ea44a667d570e71ee979`
+* **Release do SudokuGame:** [Versão: 1.0.0-Beta](https://github.com/chavatte/LAB-BRADESCO-JAVA-CLOUD-NATIVE/releases/tag/V1.0.0-Beta)
+* **Baixe o instalador(link Direto):** [📦 SudokuGame Installer v1.0.0](https://github.com/chavatte/LAB-BRADESCO-JAVA-CLOUD-NATIVE/releases/download/V1.0.0-Beta/SudokuGame-Installer-1.0.0.msi)
 * **Verificação VirusTotal:** [SudokuGame Verificação](https://www.virustotal.com/gui/file/6477f09f02ae89e778613661e9eff316050002b2f2e0ea44a667d570e71ee979/detection)
-* **Baixe o instalador:** [📦 SudokuGame Installer v1.0.0](https://github.com/chavatte/LAB-BRADESCO-JAVA-CLOUD-NATIVE/projects/LAB-05/Sudoku/dist/releases/v1.0.0/SudokuGame-Installer-1.0.0.msi)
+* **Hash SHA-256:** `6477f09f02ae89e778613661e9eff316050002b2f2e0ea44a667d570e71ee979`
 
 ## Conclusão
 
