@@ -36,32 +36,32 @@ O desenvolvimento deste projeto proporcionou o aprendizado em diversas áreas, t
 
 ## Instalação
 
-* **Clone o repositório:**
+**Bash**
 
-   **Bash**
-
-   ```
+```
 # Clonando o Bootcamp:
 git clone https://github.com/chavatte/LAB-BRADESCO-JAVA-CLOUD-NATIVE.git
-   ```
-   
-* **Compile o projeto:**
 
-   **Bash**
+```
+**Bash**
 
-   ```
-# Compilando chavatteBoard:
+```
+# Compilando o jogo:
 cd LAB-BRADESCO-JAVA-CLOUD-NATIVE/projects/LAB-08/chavatteboard
 mvn compile
-   ```
-   
-* **Execute o sistema:**
 
-   **Bash**
+```
 
-   ```
-   mvn exec:java -Dexec.mainClass="dev.chavatte.Main"
-   ```
+**Bash**
+
+```
+# Execute chavatteBoard:
+mvn exec:java -Dexec.mainClass="dev.chavatte.Main"
+
+# ou somente:
+mvn exec:java
+
+```
 
 ## Como Usar
 
