@@ -53,7 +53,7 @@ Desenvolver as habilidades essenciais para construir aplicações back-end escal
 * **LAB-05: Criando um Jogo do Sudoku em Java:** Desenvolvimento de um jogo para consolidar conhecimentos de Java. [Link para o projeto](./projects/LAB-05/Sudoku/README.md)
 * **LAB-06: Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework:** Estudo e aplicação de padrões de projeto em Java. [Link para o projeto](./projects/LAB-06/hotelReservation/README.md)
 * **LAB-07: API REST na Nuvem Usando Spring Boot 3, Java 17 e Fly.io:** Criação e deploy de API REST utilizando Spring Boot. [Link para o projeto](./projects/LAB-07/biblioteca/README.md)
-* **LAB-08: Criando Board de Tarefas com Java:** Desenvolvimento de um sistema para gerenciamento de tarefas. [Link para o projeto](./projects/LAB-08/board/README.md)
+* **LAB-08: Criando Board de Tarefas com Java:** Desenvolvimento de um sistema para gerenciamento de tarefas. [Link para o projeto](./projects/LAB-08/chavatteboard/README.md)
 * **LAB-09: Microsoft Azure - Localizando Serviços por Categoria:** Introdução à plataforma Azure e seus serviços. [Link para o projeto](./projects/LAB-09/README.md)
 * **LAB-10: Criando máquinas Virtuais na Azure:** Prática de criação e configuração de VMs na Azure. [Link para o projeto](./projects/LAB-10/README.md)
 * **LAB-11: Configurando uma instância de Banco de Dados na Azure:** Configuração de um banco de dados na nuvem Azure. [Link para o projeto](./projects/LAB-11/README.md)

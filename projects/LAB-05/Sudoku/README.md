@@ -39,7 +39,7 @@ Além disso, o projeto permitiu o desenvolvimento de habilidades como:
 
 ```
 # Clonando o Bootcamp:
-git clone git clone https://github.com/chavatte/LAB-BRADESCO-JAVA-CLOUD-NATIVE.git
+git clone https://github.com/chavatte/LAB-BRADESCO-JAVA-CLOUD-NATIVE.git
 
 ```
 **Bash**
