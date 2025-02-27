@@ -2,11 +2,13 @@
 
 ## Entendendo a Arquitetura e Componentes da Rede Global do Azure
 
-<img align="center" src="URL_DA_SUA_IMAGEM_AQUI" />
+
+<img align="center" src="./assets/logo.png" />
+
 
 ### Descrição
 
-Este artigo técnico detalha a infraestrutura global do Microsoft Azure, explorando seus componentes físicos e de rede, incluindo datacenters, regiões, zonas de disponibilidade e pontos de presença. Abordaremos como esses elementos se combinam para fornecer alta disponibilidade, baixa latência e escalabilidade para aplicativos e serviços em nuvem.
+Este projeto detalha a infraestrutura global do Microsoft Azure, explorando seus componentes físicos e de rede, incluindo datacenters, regiões, zonas de disponibilidade e pontos de presença. Abordaremos como esses elementos se combinam para fornecer alta disponibilidade, baixa latência e escalabilidade para aplicativos e serviços em nuvem.
 
 ### Conceitos Fundamentais
 
